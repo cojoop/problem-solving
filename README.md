@@ -1,2 +1,18 @@
-# github.com-cojoop-problem-solving
-This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+# problem-solving
+
+올바른 알고리즘: 어떠한 경우에도 실행 결과가 똑같이 나오는 것.
+
+## 목표
+
+- 다양한 알고리즘 문제를 통해 문제 해결 능력을 키웁니다.
+- 효율적인 코드를 작성하는 연습을 통해 코드의 성능을 최적화합니다.
+- 알고리즘 문제를 푸는 다양한 전략과 패턴을 학습합니다.
+
+## 규칙
+
+- 사용 언어: Java
+- 매일 최소 1개 이상의 알고리즘 문제를 풉니다.
+- 1 문제당 최대 1시간 정도로 시간제한을 두고 문제를 풉니다.
+- 시간 내에 문제를 풀지 못할 경우, 해설을 참고하여 막힌 부분을 파악합니다.
+- 풀지 못한 문제는 1주일 뒤 다시 풀어봅니다.
+- 다양한 난이도의 문제를 풀어보며 여러 알고리즘과 자료구조를 연습합니다.
